@@ -1,0 +1,17 @@
+{
+  "name": "PDFMint — Image to PDF Converter",
+  "short_name": "PDFMint",
+  "description": "Convert images to PDF, scan documents, merge PDFs, and compress files privately on your Android device with PDFMint.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#2ec4b6",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
