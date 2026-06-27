@@ -30,7 +30,7 @@ The workflow at `.github/workflows/deploy-website.yml` regenerates the site and
 deploys the `website/` directory. The public URL will be:
 
 ```text
-https://vmalviya2.github.io/PDFMintWeb/
+https://vmalviya2.github.io/pdfmint-website/
 ```
 
 ## Configuration before release

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vmalviya2.github.io/PDFMintWeb/sitemap.xml
+Sitemap: https://vmalviya2.github.io/pdfmint-website/sitemap.xml
